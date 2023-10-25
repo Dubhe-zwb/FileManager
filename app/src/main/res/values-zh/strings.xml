@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">文档管理</string>
+    <string name="explore_hint">搜索文件</string>
+</resources>
